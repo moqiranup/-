@@ -1,0 +1,10 @@
+//Enter the following program.
+
+#include<stdio.h>
+
+int main()
+{
+   printf("This is the first C program.");
+   
+   return 0;
+}
