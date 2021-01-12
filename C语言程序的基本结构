@@ -1,0 +1,15 @@
+//Known three integers:8,12,6.By formula s=a+b*c and displaying results.
+
+#include<stdio.h>
+
+
+int main()
+{
+   int a=8,b=12,c=6,s;
+   
+   s=a+b*c;
+   
+   printf("The result of calculation is s=%d",s);
+   
+   return 0;
+}
